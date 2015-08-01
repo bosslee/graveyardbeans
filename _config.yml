@@ -1,10 +1,10 @@
 # Site settings
-title: Graveyard Bean - growing coffee in graveyard soil
+title: Bosslee Coffee - Producing The Best Cold Brew In Singapore
 email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-baseurl: "http://graveyardbean.com"
-url: "http://graveyardbean.com"
-twitter_username: graveyardbean
+description: "We love coffee, we love it both hot and cold. One day, we mixed our own blend and produced a cold brew that is so good that we believe you will love it too."
+baseurl: ""
+url: "http://bossleecoffee.com"
+twitter_username: bossleecoffee
 
 # Build settings
 markdown: kramdown
