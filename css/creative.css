@@ -58,6 +58,7 @@ p {
 .bg-dark {
     color: #fff;
     background-color: #222;
+    /*background-image: url("/img/blc01.jpg");*/
 }
 
 .text-faded {
